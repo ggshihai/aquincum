@@ -12,5 +12,7 @@ Aquincum - responsive template with lots of custom elements and very flexible co
 * 12 columns grid for main content and widgets makes the whole template very flexible for different type of data and content.
 * Integrated plugins add an extra easy to use components to custom stuff like buttons, dropdown menus, different button sizes and many other features.
 
-To preview full template please click on [this link](http://1.s3.envato.com/files/29407652/02_dashboard.png).<br/>
-Download **src** folder, and all you need to start is to run **index.html** in your browser.
+To preview full template please click on [this link](http://1.s3.envato.com/files/29407652/02_dashboard.png).
+
+## How to start
+Just download **src**, and all you need to do is to run **index.html** in your browser.
